@@ -39,3 +39,4 @@ basic.forever(function () {
     led.toggle(randint(0, 4), randint(0, 4))
 })
 ```
+makeCodeRender(“{{ site.makecode.home_url }}”, “{{ site.github.owner_name }}/{{ site.github.repository_name }}”);
